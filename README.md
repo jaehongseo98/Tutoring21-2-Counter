@@ -7,7 +7,10 @@
     <img width="400" src="counter.gif">
 </p>
 
-### <center>[🖥️DEMO](https://dalcon10028.github.io/Tutoring21-2-Counter/)</center>
+<p align="middle">
+  <a href="https://dalcon10028.github.io/Tutoring21-2-Counter/">🖥️ DEMO</a>
+</p>
+
 <br/>
 
 ## 🎯 요구사항
