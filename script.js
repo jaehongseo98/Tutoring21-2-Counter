@@ -1,13 +1,14 @@
+var plus = document.querySelector(".plus");
+var minus = document.querySelector(".minus");
+var num = document.querySelector(".count");
 var cnt = 0;
 
-$('.plus').on("click", function () {
+plus.addEventListener('click', function() {
     cnt += 1;
-    console.log(cnt);
-    document.getElementById("num").value = cnt;
-});
+    num.value = cnt;
+})
 
-$('.minus').on("click", function () {
+minus.addEventListener('click', function() {
     cnt -= 1;
-    console.log(cnt);
-    document.getElementById("num").value = cnt;
-});
+    num.value = cnt;
+})
